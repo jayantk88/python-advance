@@ -1,0 +1,22 @@
+1.
+
+There are three types of exception—the checked exception, the error and the runtime exception.
+
+2.
+
+When an exception occurred, if you don't handle it, the program terminates abruptly and the code past the line that caused the exception will not get executed.
+
+3.
+
+"Recover From" means that the exception does not stop your program, the program can handle the exception (With the help of a try catch block) and then continue to execute.
+
+4.
+
+To avoid such a scenario, there are two methods to handle Python exceptions:-
+
+Try – This method catches the exceptions raised by the program.
+Raise – Triggers an exception manually using custom exceptions.
+
+5.
+
+The optional else clause contains codes to be executed if no exception occurs. The optional finally block contains codes to be executed irrespective of whether an exception occurs or not.

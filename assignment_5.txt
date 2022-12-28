@@ -1,0 +1,19 @@
+1.
+
+Multiple inheritance is a feature of some object-oriented computer programming languages in which an object or class can inherit features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class.
+
+2.
+
+Delegation is commonly defined as the shifting of authority and responsibility for particular functions, tasks or decisions from one person (usually a leader or manager) to another. ... Most delegated tasks take some time, planning and effort to complete properly.
+
+3.
+
+Composition is a concept that models a has a relationship. It enables creating complex types by combining objects of other types. This means that a class Composite can contain an object of another class Component . This relationship means that a Composite has a Component .
+
+4.
+
+A bound method is the one which is dependent on the instance of the class as the first argument. It passes the instance as the first argument which is used to access the variables and functions.
+
+5.
+
+Pseudoprivate attributes are also useful in larger frameworks or tools, both to avoid introducing new method names that might accidentally hide definitions elsewhere in the class tree and to reduce the chance of internal methods being replaced by names defined lower in the tree.

@@ -1,0 +1,19 @@
+1.
+
+Python's try statement is a means which we can use to handle errors gracefully. If the error is handled properly, execution of the code does not produce error status and there is no output to stderr.
+
+2.
+
+Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution.
+
+3.
+
+The raise keyword is used to raise an exception. You can define what kind of error to raise, and the text to print to the user.
+
+4.
+
+An assert statement checks whether a condition is true. If a condition evaluates to True, a program will keep running. If a condition is false, the program will return an AssertionError. At this point, the program will stop executing.
+
+5.
+
+with statement in Python is used in exception handling to make the code cleaner and much more readable. It simplifies the management of common resources like file streams. ... Notice that unlike the first two implementations, there is no need to call file
